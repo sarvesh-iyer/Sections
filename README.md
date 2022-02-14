@@ -2,4 +2,4 @@
 
 It was the task to replicate one of the sections in todd Shelton website using HTML, CSS and JS.
 
-**Website**
+**Website** https://todd-shelton-section.netlify.app/
